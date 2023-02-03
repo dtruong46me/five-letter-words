@@ -1,2 +1,2 @@
-# five-letter-words
+# Five Letter Words Problem
  Excercise 3 - Discrete Mathematics 
