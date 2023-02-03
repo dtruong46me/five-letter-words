@@ -1,5 +1,5 @@
 # Five Letter Words Problem
-## Excercise 3 - Searching on large Graph
+## Problem Description
 
 A. Consider the dataset SGB Words dataset at :
 http://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt
