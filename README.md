@@ -22,3 +22,16 @@ B. Still from the data set sgb-words, we build a directed graph D with the verte
 (b) Write a program that inputs the word u and displays the words with the same element on the screen strongly associated with the word u.
 
 (c) Write a program to input the word starting u and ending v; display screen the shortest path from u to v.
+
+## Algorithms
+
+- Breath First Search (BFS)
+- Depth First Search (DFS)
+- Dijkstra Algorithms 
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
