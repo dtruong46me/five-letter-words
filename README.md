@@ -35,3 +35,17 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Contact
+[T] : (+84) 97 987 01 56
+
+[E] : dtruong46.me@gmail.com/ truong.pd214937@sis.hust.edu.vn
+
+[A] : Hanoi University of Science and Technology
+
+[F] : https://www.facebook.com/dtruong46.me
+
+## Reference
+[How to write file README.md](https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ)
+
+[Mini Project Five Letter Words](https://github.com/charlesreid1/five-letter-words)
