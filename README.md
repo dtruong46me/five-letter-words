@@ -15,7 +15,7 @@ It is easy to see, in graph G, the sequence of words: `words`, `wolds`, ` golds`
 (b) Write a program to input the word starting u and ending v, display screen the shortest path from u to v
 
 **B.** Still from the data set sgb-words, we build a directed graph D with the vertex set of "every word in sgb-words”, and a word u has an arc connected to another v if the last four letters of u appear in v (including the number of occurrences). The directed graph D has **94,084** arcs and **5757** vertices. The shortest directional path from words to graph is:
- `words` → `dross` → `soars` → `orcas` → `chars` → `sharp` → graph and we can get back to words in five steps, `graph` → `harps` → `prats` → `astro` → `trows` → `words`
+ `words` → `dross` → `soars` → `orcas` → `chars` → `sharp` → `graph` and we can get back to words in five steps, `graph` → `harps` → `prats` → `astro` → `trows` → `words`
 
 (a) Write a program to count the number of strongly connected components of graph D.
 
